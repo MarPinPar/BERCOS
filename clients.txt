@@ -1,0 +1,12 @@
+José Alberto; Corneil Smith; 5468759; 3000000000; Avenida al aeropuerto, Km 5, Finca JOSE; 2; 2019-10-04
+Carlos; Duqueins Ramirez; 102583587; 2542346; Cra 20 #89 - 2, Apartamento 4010; 6; 2022-02-04
+Juan; Gomez Hurtado; 12413515; 265746; Cra 2 Calle 17; 11; 2022-01-01
+Sara; Marquez Pacheco; 12433465; 235247457; Transversal 7 #4 - 2; 2; 2021-03-05
+Josefa; Martinez Pulencio; 235346; 8675456763; Av.9 No. 70; 1; 2022-01-01
+Carla; Jimenez Pérez; 57568598; 34775456; Calle 7 No. 8bis; 1; 2018-05-05
+Álvaro; Fernandez Lopéz; 95486747; 92757298; Calle 40 Numero 93, Apartamento 301 Edificio 1; 1; 2022-02-01
+Sofia; Garcia Gutiérrez; 0948638; 348359763; Carrera 11 #5 - 123, Suite 10; 80; 2002-12-12
+Teo; Moreno Dominguez; 9347676; 97346723; Calle 90 Carrera 1, Edicio DEST; 3; 2016-10-03
+Hector; Alvarez González; 854757; 94573434; Cra 7ma Calle 9; 10; 2001-09-05
+Nombre; Apellidos; 4567845; 457869; Dirección; 5; 2020-01-01
+Lola; Mendoza; 112233; 567871223; Carrera 15 #70 - 34, Apto 202; 2; 2022-02-11
